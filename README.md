@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clocky-hack
+- 👋 Hi, I’m @R3d_CK0
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and phyton
 💻💻💻💻💻💻
